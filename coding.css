@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://cdn.vectorstock.com/i/1000x1000/65/16/digital-coding-background-with-numbers-zero-vector-36266516.webp);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+img{
+    
+    height: 120px;
+    width: 120px;
+}
+h1{
+    color:yellowgreen;
+}
+h3{
+    color:aquamarine;
+}
+h1,audio{
+    display: inline;
+}
